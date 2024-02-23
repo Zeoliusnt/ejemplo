@@ -1,2 +1,0 @@
-# ejemplo
-consulta de clinica
